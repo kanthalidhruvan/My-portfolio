@@ -12,7 +12,7 @@ function AboutCard() {
             from <span className="purple"> Hyderabad, India.</span>
             <br />
             <br/>
-            I am currently purusing final year in Gokaraju Rangaraju Institute of Engineering & Technology.
+            I am currently pursuing final year in Gokaraju Rangaraju Institute of Engineering & Technology.
             <br />
             <br />
             Apart from coding, some other activities that I love to do!
