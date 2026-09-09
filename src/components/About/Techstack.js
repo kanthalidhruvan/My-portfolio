@@ -86,7 +86,7 @@ import {
 } from "react-icons/si";
 import { FaHtml5, FaCss3Alt } from "react-icons/fa";
 import { MdRecordVoiceOver } from "react-icons/md";
-import { TbPrompt } from "react-icons/tb"; // Optional alternative to SiOpenai
+//import { TbPrompt } from "react-icons/tb"; // Optional alternative to SiOpenai
 
 function Techstack() {
   return (
